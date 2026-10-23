@@ -1,0 +1,8 @@
+# Temporäre Python-Dateien
+__pycache__/
+*.pyc
+
+# PyInstaller Build-Ordner und fertige Exe
+build/
+dist/
+*.spec
